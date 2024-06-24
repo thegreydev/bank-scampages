@@ -23,7 +23,7 @@ developer: https://t.me/pysmart
 -  grabs credentials
 - OTP bypass
 
-# WEBSITE ATTACKS
+# WEBSITE ATTACK
 - DDOS attack
 - SQLi
 - payloads
