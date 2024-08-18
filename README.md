@@ -1,5 +1,5 @@
 # bank-scampages
-a phishing website that grabs login credentials of any bank website or customised deals
+a phishing website that grabs login credentials of any bank websites or customised deals
 
 developer: https://t.me/pysmart
 
