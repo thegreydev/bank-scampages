@@ -18,6 +18,11 @@ developer: https://t.me/pysmart
 # OFFICE 365 
 -  grabs credentials
 -  - OTP bypass
+   
+# NAB BANK - AU 
+-  grabs credentials
+-  - OTP bypass
+
 
 #  OTHER BANK SCAMPAGES 
 -  grabs credentials
