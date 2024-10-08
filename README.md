@@ -35,7 +35,6 @@ developer: https://t.me/pysmart
 - DDOS attack
 - SQLi
 - payload(s)
-- OSINT
 
 
 developer: https://t.me/pysmart
